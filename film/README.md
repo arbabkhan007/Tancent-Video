@@ -3,7 +3,8 @@
 An original 5-minute cinematic documentary, **narrated in Urdu**, delivered in landscape
 **1920×1080 / 24 fps**.
 
-> **Final film:** `film/out/Pakistan_History_Urdu_1080p.mp4`
+> **Final film:** `film/out/Pakistan_History_Urdu_1080p_web.mp4` (committed copy, 1080p, ~87 MB)
+> **Master:** `film/out/Pakistan_History_Urdu_1080p.mp4` (higher-bitrate local master, not committed)
 > **Subtitles:** `film/out/pakistan_history_urdu.srt` (Urdu narration, sidecar)
 
 This folder is self-contained and independent of the HunyuanVideo model code at the repo

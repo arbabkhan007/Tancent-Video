@@ -2,3 +2,4 @@ __pycache__
 /ckpts/**/
 film/build/
 film/out/*.mp4
+!film/out/Pakistan_History_Urdu_1080p_web.mp4
