@@ -1,2 +1,4 @@
 __pycache__
 /ckpts/**/
+film/build/
+film/out/*.mp4
